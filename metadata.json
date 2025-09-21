@@ -1,0 +1,6 @@
+{
+  "name": "Smart Navigation App",
+  "description": "Plan your journey with an advanced navigation assistant. Get routes on a Photoreal 3D map and a detailed trip analysis, including weather forecasts, traffic alerts, and a visual journey timeline, powered by a Gemini-agent and MCP.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
